@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chris Rossen]]></title>
+        <description><![CDATA[Chris Rossen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 10:12:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Overview]]></title>
+            <description><![CDATA[<article><h1>Overview</h1><p>Chris Rossen has 18+ years experience in management consulting, systems analysis and online interactive production. He is a military veteran of both the US Army and US Air Force and has contracting experience working with the intelligence community to implement workflow systems for the (NSA) & National Geospatial-Intelligence Agency- (formally known as NIMA).</p></article>]]></description>
+            <link>undefinedoverview/index.html</link>
+            <guid isPermaLink="false">6978c36e-35a6-453e-9b31-2692c719cb79</guid>
+            <pubDate>Sat, 06 Feb 2016 10:11:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
