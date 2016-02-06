@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chris Rossen]]></title>
         <description><![CDATA[Chris Rossen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 09:47:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 09:48:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> Chris Rossen has 18+ years experience in management consulting, systems analysis and online interactive production. He is a military veteran of both the US Army and US Air Force and has contracting experience working with the intelligence community to implement workflow systems for the (NSA) & National Geospatial-Intelligence Agency- (formally known as NIMA).</p>]]></description>
+            <link>https://thegrid.ai/chris-rossen/9ea5b67c-14cd-4184-9f3f-9308dc1323c6/index.html</link>
+            <guid isPermaLink="false">9ea5b67c-14cd-4184-9f3f-9308dc1323c6</guid>
+            <pubDate>Sat, 06 Feb 2016 09:47:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Chris has lead multiple Internet software projects developing large scale online communities and government distributed order management systems. He has previously held top secret security clearances from several military organizations.</p>]]></description>
-            <link>undefinedfd2c4f38-d245-4b6c-999c-a195ab27c209/index.html</link>
+            <link>https://thegrid.ai/chris-rossen/fd2c4f38-d245-4b6c-999c-a195ab27c209/index.html</link>
             <guid isPermaLink="false">fd2c4f38-d245-4b6c-999c-a195ab27c209</guid>
             <pubDate>Sat, 06 Feb 2016 09:47:39 GMT</pubDate>
         </item>
