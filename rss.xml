@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Chris Rossen]]></title>
         <description><![CDATA[Chris Rossen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 20:23:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 20:30:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/206ff361-2396-4be0-a054-5fd7f926771b.jpg">]]></description>
-            <link>undefineda60729d4-be59-4471-86eb-340658e05f0d/index.html</link>
+            <link>https://thegrid.ai/chris-rossen/a60729d4-be59-4471-86eb-340658e05f0d/index.html</link>
             <guid isPermaLink="false">a60729d4-be59-4471-86eb-340658e05f0d</guid>
             <pubDate>Sat, 06 Feb 2016 20:23:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/442fde6c-eb87-45e7-bdb7-5b0fd9e66ec1.jpg">]]></description>
+            <link>https://thegrid.ai/chris-rossen/f88d8ace-fef9-441c-bc75-d325bd3b6c36/index.html</link>
+            <guid isPermaLink="false">f88d8ace-fef9-441c-bc75-d325bd3b6c36</guid>
+            <pubDate>Sat, 06 Feb 2016 20:30:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
