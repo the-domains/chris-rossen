@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chris Rossen]]></title>
+        <description><![CDATA[Chris Rossen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 09:47:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Chris has lead multiple Internet software projects developing large scale online communities and government distributed order management systems. He has previously held top secret security clearances from several military organizations.</p>]]></description>
+            <link>undefinedfd2c4f38-d245-4b6c-999c-a195ab27c209/index.html</link>
+            <guid isPermaLink="false">fd2c4f38-d245-4b6c-999c-a195ab27c209</guid>
+            <pubDate>Sat, 06 Feb 2016 09:47:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
