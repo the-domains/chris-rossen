@@ -1,0 +1,28 @@
+name: Chris Rossen
+favicon: null
+layout_spectrum: 0.8931819922290742
+typography_spectrum: 0.04606662015430629
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.018254452850669622
+  lightness: 0.4861814687028527
+  saturation: 0.890674585243687
+  rhythmicContrast: 0.3626459767110646
+purpose: []
