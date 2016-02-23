@@ -4,8 +4,15 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 09:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 09:25:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfl1/v/t1.0-9/11116539_10153318372821458_6592977729232451456_n.jpg?oh=b07cbe9e3152fb3445afbd7da3fc48ca&oe=5755C1BE">]]></description>
+            <link>https://thegrid.ai/chris-rossen/c0383040-0467-4e99-84e9-3a46488f7a1a/index.html</link>
+            <guid isPermaLink="false">c0383040-0467-4e99-84e9-3a46488f7a1a</guid>
+            <pubDate>Tue, 23 Feb 2016 09:24:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/12032023_10206480530867083_4542832448646164960_n.jpg?oh=32e13f1d5154d8dcf47af65a7a96c1d5&oe=575E9A90">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.inc.com/tess-townsend/5-predictions-for-ai-2016.html</link>
             <guid isPermaLink="false">bd036b71-24f8-4143-9d43-2bff708b2df1</guid>
             <pubDate>Wed, 10 Feb 2016 00:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10468647_10204886203049884_6576108079588585740_n.jpg?oh=b863bf6f0f881898db454d1fc446e082&oe=5730AABF">]]></description>
-            <link>https://www.facebook.com/photo.php?fbid=10204886203049884&amp;set=a.1455013850371.2058708.1084072900&amp;type=3&amp;theater&amp;notif_t=like</link>
-            <guid isPermaLink="false">2ef9f9fa-9a6b-41ce-8f6d-97b53e893a89</guid>
-            <pubDate>Tue, 23 Feb 2016 09:18:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
