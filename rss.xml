@@ -4,8 +4,15 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 09:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 09:25:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xla1/v/t1.0-9/1918907_10207058562517513_795275683307569407_n.jpg?oh=b8f463586639be77c7eb41071279f6ec&oe=576E3EEB">]]></description>
+            <link>https://thegrid.ai/chris-rossen/02b8413e-cab4-41df-a4e3-5714b399a678/index.html</link>
+            <guid isPermaLink="false">02b8413e-cab4-41df-a4e3-5714b399a678</guid>
+            <pubDate>Tue, 23 Feb 2016 09:24:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfl1/v/t1.0-9/11116539_10153318372821458_6592977729232451456_n.jpg?oh=b07cbe9e3152fb3445afbd7da3fc48ca&oe=5755C1BE">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-rossen/f698750f-7b80-4bf3-aafc-58a106cdd21b/index.html</link>
             <guid isPermaLink="false">f698750f-7b80-4bf3-aafc-58a106cdd21b</guid>
             <pubDate>Tue, 23 Feb 2016 08:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Predictions for Artificial Intelligence in 2016]]></title>
-            <description><![CDATA[<article><h1>5 Predictions for Artificial Intelligence in 2016</h1><p>Comb through headlines pertaining to artificial intelligence over the past 12 months and you'll see the pendulum of conversation around the machines swing from gushing optimism to doomsday scenarios and back again. The machines will render hardship obsolete for humanity. The machines will take our jobs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/871a3e2e027faf6954dde6b0eff7e8062e9e78e6.jpg"></article>]]></description>
-            <link>http://www.inc.com/tess-townsend/5-predictions-for-ai-2016.html</link>
-            <guid isPermaLink="false">bd036b71-24f8-4143-9d43-2bff708b2df1</guid>
-            <pubDate>Wed, 10 Feb 2016 00:38:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
