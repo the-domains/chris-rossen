@@ -4,8 +4,15 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 07:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 07:40:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/306438_2255907712217_933905572_n.jpg?oh=5f0742689c0a0b6f3aa023d076c6e709&oe=574F879E">]]></description>
+            <link>https://thegrid.ai/chris-rossen/4e785ed1-e61a-41ef-b38f-d18d4cc76fea/index.html</link>
+            <guid isPermaLink="false">4e785ed1-e61a-41ef-b38f-d18d4cc76fea</guid>
+            <pubDate>Thu, 25 Feb 2016 07:39:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1001892_10201012191162008_531396183_n.jpg?oh=f2452c16a09b8bb06d35cabaddfd3a80&oe=575A7519">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/221612_10151774056351458_1489509344_n.jpg?oh=81c5132f982730a585730424725550fe&oe=575082D2">]]></description>
             <link>https://thegrid.ai/chris-rossen/c3f3c4fc-459c-4310-bf50-4e54d17b13ac/index.html</link>
             <guid isPermaLink="false">c3f3c4fc-459c-4310-bf50-4e54d17b13ac</guid>
-            <pubDate>Thu, 25 Feb 2016 07:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/226332_10150241665201458_2805008_n.jpg?oh=d14ba6722027477f3c1ecc3f248ae27d&oe=575F6C1C">]]></description>
-            <link>https://thegrid.ai/chris-rossen/df940fde-0e70-4f78-8297-85b1508f59a9/index.html</link>
-            <guid isPermaLink="false">df940fde-0e70-4f78-8297-85b1508f59a9</guid>
             <pubDate>Thu, 25 Feb 2016 07:30:19 GMT</pubDate>
         </item>
     </channel>
