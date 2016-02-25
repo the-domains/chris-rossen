@@ -4,8 +4,15 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 07:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 07:39:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1374340_10201385956745914_2038663140_n.jpg?oh=13d7797f75cdaa2496b0c00086da9810&oe=575A3934">]]></description>
+            <link>https://thegrid.ai/chris-rossen/52f7e44f-841c-45b3-9def-c71033a2196d/index.html</link>
+            <guid isPermaLink="false">52f7e44f-841c-45b3-9def-c71033a2196d</guid>
+            <pubDate>Thu, 25 Feb 2016 07:39:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/255786_1971145033328_4287153_n.jpg?oh=a06f2f1b7f2dd32a21a065bc63f5482e&oe=575A579D">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/75874_487780031457_4285127_n.jpg?oh=a61d70cc00799ad2232c7bbde36547e0&oe=576EF54F">]]></description>
             <link>https://thegrid.ai/chris-rossen/abb5e520-96a6-4208-9411-bf3935da048d/index.html</link>
             <guid isPermaLink="false">abb5e520-96a6-4208-9411-bf3935da048d</guid>
-            <pubDate>Thu, 25 Feb 2016 07:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10391950_208844986457_7263307_n.jpg?oh=9ed772ad8403dcef3e8f91e23d99c6cb&oe=57648431">]]></description>
-            <link>https://thegrid.ai/chris-rossen/b630fa12-94a4-4298-879a-56b58de52051/index.html</link>
-            <guid isPermaLink="false">b630fa12-94a4-4298-879a-56b58de52051</guid>
             <pubDate>Thu, 25 Feb 2016 07:30:19 GMT</pubDate>
         </item>
     </channel>
