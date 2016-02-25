@@ -4,8 +4,15 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 06:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 06:20:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-0/p206x206/10401023_128831386457_7866904_n.jpg?oh=d8ea580a458853129ea34c7c408a64a1&oe=575510FF">]]></description>
+            <link>https://thegrid.ai/chris-rossen/a557837d-c5f1-4a10-ab62-85aad309cb76/index.html</link>
+            <guid isPermaLink="false">a557837d-c5f1-4a10-ab62-85aad309cb76</guid>
+            <pubDate>Thu, 25 Feb 2016 06:20:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpt1/v/l/t1.0-9/2136_1059229596012_4832_n.jpg?oh=a1fd976fac0d8fc33dc7aecf8cfe8f31&oe=575D1CC3">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-rossen/cb8b5406-14f9-4dd6-8e63-fc08244e04c2/index.html</link>
             <guid isPermaLink="false">cb8b5406-14f9-4dd6-8e63-fc08244e04c2</guid>
             <pubDate>Thu, 25 Feb 2016 05:43:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/427863_3565826579370_828874618_n.jpg?oh=908341f52c10c676372ea92e66d9f4a3&oe=5766A854">]]></description>
-            <link>https://thegrid.ai/chris-rossen/99894387-5cf6-49b1-91d7-f5840efbe9af/index.html</link>
-            <guid isPermaLink="false">99894387-5cf6-49b1-91d7-f5840efbe9af</guid>
-            <pubDate>Thu, 25 Feb 2016 05:42:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
