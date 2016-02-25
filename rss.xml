@@ -4,8 +4,15 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 06:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 06:26:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpa1/v/t34.0-12/1932064_10152262068131458_1094456054_n.jpg?oh=4fca2b44281836568bc5709f9f38adac&oe=56D06634">]]></description>
+            <link>https://thegrid.ai/chris-rossen/3000b1bc-7e8c-4e4b-8c18-16d1d9a48a7a/index.html</link>
+            <guid isPermaLink="false">3000b1bc-7e8c-4e4b-8c18-16d1d9a48a7a</guid>
+            <pubDate>Thu, 25 Feb 2016 06:25:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-0/p206x206/10422071_10153064134801458_3783516489052267452_n.jpg?oh=9a969ef52de3858297b540cf95725928&oe=57713DF0">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfa1/t31.0-8/1277724_10151897449401458_927306890_o.jpg">]]></description>
             <link>https://thegrid.ai/chris-rossen/0337e977-14c9-4350-8d5b-b09b3b5536f3/index.html</link>
             <guid isPermaLink="false">0337e977-14c9-4350-8d5b-b09b3b5536f3</guid>
-            <pubDate>Thu, 25 Feb 2016 06:20:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-0/p206x206/524228_10151607619711458_1795209397_n.jpg?oh=1cd0aa5780ef009c24799d60b0ed163c&oe=576F3724">]]></description>
-            <link>https://thegrid.ai/chris-rossen/607a63cf-d371-45bb-a090-2924efdd77c2/index.html</link>
-            <guid isPermaLink="false">607a63cf-d371-45bb-a090-2924efdd77c2</guid>
             <pubDate>Thu, 25 Feb 2016 06:20:03 GMT</pubDate>
         </item>
     </channel>
