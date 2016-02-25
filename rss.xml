@@ -4,8 +4,15 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 07:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 07:38:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/11885202_10206218708521688_472666104486045900_n.jpg?oh=230d03808270126238aaac8173f387b2&oe=576B5A90">]]></description>
+            <link>https://thegrid.ai/chris-rossen/ddbf01a9-a5a2-42f4-a7ef-bf04336db0db/index.html</link>
+            <guid isPermaLink="false">ddbf01a9-a5a2-42f4-a7ef-bf04336db0db</guid>
+            <pubDate>Thu, 25 Feb 2016 07:37:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/35371_439126751457_5555533_n.jpg?oh=177d7ef4678536e83748510cc910da3c&oe=575FAA2F">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-rossen/58051888-74f5-4d7e-8f56-f9f6f175c980/index.html</link>
             <guid isPermaLink="false">58051888-74f5-4d7e-8f56-f9f6f175c980</guid>
             <pubDate>Thu, 25 Feb 2016 07:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10422135_10206218510156729_6104063387432589472_n.jpg?oh=fa19b5a3ba80cb09f5283c2ba1c46f43&oe=5766DCF1">]]></description>
-            <link>https://thegrid.ai/chris-rossen/c3ef091c-12a0-4d13-9681-6f1971ce8cc7/index.html</link>
-            <guid isPermaLink="false">c3ef091c-12a0-4d13-9681-6f1971ce8cc7</guid>
-            <pubDate>Thu, 25 Feb 2016 06:56:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
