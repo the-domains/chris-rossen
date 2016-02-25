@@ -4,15 +4,8 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 06:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 06:21:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/226036_10150222512876458_3026304_n.jpg?oh=8366f52ae1cd59e9c35c75b707947c61&oe=5765267B">]]></description>
-            <link>https://thegrid.ai/chris-rossen/f52badd1-bbf3-47d7-b742-ce6f31d46579/index.html</link>
-            <guid isPermaLink="false">f52badd1-bbf3-47d7-b742-ce6f31d46579</guid>
-            <pubDate>Thu, 25 Feb 2016 06:20:04 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10357831_10204221801120251_95456662686981804_n.jpg?oh=e478bf14d407defb41e05d8cfde30048&oe=576BE3FC">]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-0/p206x206/10401023_128831386457_7866904_n.jpg?oh=d8ea580a458853129ea34c7c408a64a1&oe=575510FF">]]></description>
             <link>https://thegrid.ai/chris-rossen/a557837d-c5f1-4a10-ab62-85aad309cb76/index.html</link>
             <guid isPermaLink="false">a557837d-c5f1-4a10-ab62-85aad309cb76</guid>
+            <pubDate>Thu, 25 Feb 2016 06:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpt1/v/l/t1.0-9/2136_1059229596012_4832_n.jpg?oh=a1fd976fac0d8fc33dc7aecf8cfe8f31&oe=575D1CC3">]]></description>
+            <link>https://thegrid.ai/chris-rossen/6e06da2e-3bfb-409f-8e0f-464dc92fa78a/index.html</link>
+            <guid isPermaLink="false">6e06da2e-3bfb-409f-8e0f-464dc92fa78a</guid>
             <pubDate>Thu, 25 Feb 2016 06:20:03 GMT</pubDate>
         </item>
     </channel>
