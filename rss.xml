@@ -4,8 +4,15 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 06:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 07:00:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10422135_10206218510156729_6104063387432589472_n.jpg?oh=fa19b5a3ba80cb09f5283c2ba1c46f43&oe=5766DCF1">]]></description>
+            <link>https://thegrid.ai/chris-rossen/c3ef091c-12a0-4d13-9681-6f1971ce8cc7/index.html</link>
+            <guid isPermaLink="false">c3ef091c-12a0-4d13-9681-6f1971ce8cc7</guid>
+            <pubDate>Thu, 25 Feb 2016 06:56:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.iflscience.com/sites/www.iflscience.com/files/styles/ifls_large/public/blog/%5Bnid%5D/Cb_LhZUW0AA4yL4.png?itok=8mC_xGqq">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-rossen/6266c87d-964b-4e4e-8312-ba5669e7a11e/index.html</link>
             <guid isPermaLink="false">6266c87d-964b-4e4e-8312-ba5669e7a11e</guid>
             <pubDate>Thu, 25 Feb 2016 06:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The link you followed may have expired, or the page may only be visible to an audience you're not in.</p>]]></description>
-            <link>https://www.facebook.com/photo.php?fbid=10154013317906458&amp;set=a.10151122675106458.498555.607501457&amp;type=3</link>
-            <guid isPermaLink="false">83f1fddf-ed90-4d3c-81fe-71f78f9b431d</guid>
-            <pubDate>Thu, 25 Feb 2016 06:20:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
