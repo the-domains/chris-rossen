@@ -4,8 +4,15 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 07:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 07:38:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/255786_1971145033328_4287153_n.jpg?oh=a06f2f1b7f2dd32a21a065bc63f5482e&oe=575A579D">]]></description>
+            <link>https://thegrid.ai/chris-rossen/84597b48-02bf-446b-8d99-567728fcaf1f/index.html</link>
+            <guid isPermaLink="false">84597b48-02bf-446b-8d99-567728fcaf1f</guid>
+            <pubDate>Thu, 25 Feb 2016 07:37:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfl1/v/t1.0-9/11846695_10206218708441686_7769008304383490595_n.jpg?oh=8f933f2dc1138d02596353a06a7e5438&oe=576FB081">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10391950_208844986457_7263307_n.jpg?oh=9ed772ad8403dcef3e8f91e23d99c6cb&oe=57648431">]]></description>
             <link>https://thegrid.ai/chris-rossen/b630fa12-94a4-4298-879a-56b58de52051/index.html</link>
             <guid isPermaLink="false">b630fa12-94a4-4298-879a-56b58de52051</guid>
-            <pubDate>Thu, 25 Feb 2016 07:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/23817_355798371457_2698643_n.jpg?oh=07f5002c235755d57dc8cddb2a69cdf5&oe=575B52ED">]]></description>
-            <link>https://thegrid.ai/chris-rossen/b0c72198-ce28-4f32-b3d5-2df0d96f059d/index.html</link>
-            <guid isPermaLink="false">b0c72198-ce28-4f32-b3d5-2df0d96f059d</guid>
             <pubDate>Thu, 25 Feb 2016 07:30:19 GMT</pubDate>
         </item>
     </channel>
