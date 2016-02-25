@@ -4,15 +4,8 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 06:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 06:21:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfa1/t31.0-8/1277724_10151897449401458_927306890_o.jpg">]]></description>
-            <link>https://thegrid.ai/chris-rossen/0337e977-14c9-4350-8d5b-b09b3b5536f3/index.html</link>
-            <guid isPermaLink="false">0337e977-14c9-4350-8d5b-b09b3b5536f3</guid>
-            <pubDate>Thu, 25 Feb 2016 06:20:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-0/p206x206/524228_10151607619711458_1795209397_n.jpg?oh=1cd0aa5780ef009c24799d60b0ed163c&oe=576F3724">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/chris-rossen/9a336cf9-87f4-421a-b227-75d500d1b9f6/index.html</link>
             <guid isPermaLink="false">9a336cf9-87f4-421a-b227-75d500d1b9f6</guid>
             <pubDate>Thu, 25 Feb 2016 06:09:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xlf1/t31.0-8/q91/s960x960/12493628_1125634834137552_7067670422627135888_o.jpg">]]></description>
+            <link>https://thegrid.ai/chris-rossen/544943f6-6454-4b55-b8d4-ee6527e3afd2/index.html</link>
+            <guid isPermaLink="false">544943f6-6454-4b55-b8d4-ee6527e3afd2</guid>
+            <pubDate>Thu, 25 Feb 2016 06:08:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
