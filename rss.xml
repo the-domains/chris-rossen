@@ -4,8 +4,15 @@
         <description><![CDATA[Chris Rossen]]></description>
         <link>https://thegrid.ai/chris-rossen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 09:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 05:34:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-rossen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/11200795_10153535721171458_3527326630829737866_n.jpg?oh=13c3e17896dcdcf02c5c5770d86aca68&oe=575D5FE4">]]></description>
+            <link>https://thegrid.ai/chris-rossen/998af263-1a05-4309-98a6-a043cdee4ff3/index.html</link>
+            <guid isPermaLink="false">998af263-1a05-4309-98a6-a043cdee4ff3</guid>
+            <pubDate>Thu, 25 Feb 2016 05:32:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xla1/v/t1.0-9/1918907_10207058562517513_795275683307569407_n.jpg?oh=b8f463586639be77c7eb41071279f6ec&oe=576E3EEB">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-rossen/572808fc-905e-4fdf-9ead-dd52c9279b92/index.html</link>
             <guid isPermaLink="false">572808fc-905e-4fdf-9ead-dd52c9279b92</guid>
             <pubDate>Tue, 23 Feb 2016 09:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10615520_10204221760239229_4446298220250417196_n.jpg?oh=d70d21f31933ce99a10995d089f9f7d7&oe=57543137">]]></description>
-            <link>https://thegrid.ai/chris-rossen/f698750f-7b80-4bf3-aafc-58a106cdd21b/index.html</link>
-            <guid isPermaLink="false">f698750f-7b80-4bf3-aafc-58a106cdd21b</guid>
-            <pubDate>Tue, 23 Feb 2016 08:46:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
